@@ -1,1 +1,1 @@
-# NYCU Computer vision 2022
+# HW1: Photometric Stereo
